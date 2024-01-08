@@ -14,7 +14,7 @@ If you prefer to do this online, [hamstudy.org](https://hamstudy.org/) is a good
 
 SARES meets on the air [every Monday night](nets.md) at 19:30 (7:30pm). Please join the net and identify yourself as a prospective member.
 
-Alternatively, email us at (info at sunnyvaleares dot org).
+Alternatively, email us at (info at k6sny dot org).
 
 ## Membership Benefits
 

@@ -9,7 +9,7 @@ Please read "[Join SARES](join-sares.md)."
 Wolfgang Polak, AI6SL  
 Emergency Coordinator  
 Sunnyvale Amateur Radio Emergency Service (SARES)  
-Email: (info at sunnyvaleares dot org)
+Email: (info at k6sny dot org)
 
 ## SARES Repeater Group (SARES-RG)
 
