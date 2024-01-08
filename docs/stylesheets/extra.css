@@ -1,0 +1,10 @@
+.md-typeset a {
+  color: #1d70b8;
+  text-decoration: underline;
+  text-decoration-thickness: 0.0625rem;
+  text-underline-offset: 0.1em;
+}
+
+.md-typeset a:hover {
+  text-decoration-thickness: max(2px, 0.1875rem, 0.12em);
+}

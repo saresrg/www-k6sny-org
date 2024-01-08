@@ -1,0 +1,62 @@
+site_name: Sunnyvale ARES (SARES)
+site_url: https://dev.k6sny.org/
+site_author: Sunnyvale ARES
+site_description: >-
+  Sunnyvale Amateur Radio Emergency Service. Sunnyvale, California, USA.
+
+# Copyright
+copyright: "&copy; 2007-2024 Sunnyvale Amateur Radio Emergency Service. All rights reserved."
+
+nav:
+  - Home: index.md
+  - Resources:
+      - resources/index.md
+      - resources/net-control.md
+      - resources/go-kits.md
+      - Mike-Mike: resources/mike-mike.md
+      - Packet Radio: resources/packet.md
+      - resources/training.md
+      - Misc Info: resources/misc-info.md
+  - Activities:
+      - Calendar: calendar.md
+      - nets.md
+      - Activations: activations/index.md
+      - Public Service: public-service.md
+      - Field Day: field-day/index.md
+      - Meetings: meetings.md
+      - Luncheons: luncheons.md
+  - quick-links.md
+  - Other:
+      - join-sares.md
+      - Repeater Group: saresrg/index.md
+      - photos.md
+      - acknowledgements.md
+      - Terms: terms.md
+  - contact.md
+
+theme:
+  name: material
+  logo: assets/SARES-logo-tower.png
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+extra_css:
+  - stylesheets/extra.css
