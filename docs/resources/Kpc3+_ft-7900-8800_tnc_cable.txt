@@ -1,0 +1,25 @@
+Yaesu FT-7900/8800/etc to Kantronics KPC3+ TNC cable
+
+
+KPC3+  DB-9 male        CT-39A 6-pin DIN male
+pin# / desc             pin# / desc / wire color
+----------------        ------------------------
+ 1  TXA (out)    <--->   1  Pkt In    black
+ 5  RXA (in)     <--->   5  Rx 1200   yellow  (10K ohm imped)
+ 3  PTT (out)    <--->   3  PTT       red
+ 6  GND          <--->   2  GND       brown
+
+
+Yaesu Data DIN connector looking at back of transceiver (with
+the CT-39A wire colors shown in parenthesis):
+
+  Data In (black) --- 1   2 --- GND (brown)
+       PTT (red) --- 3     4
+  Tx 1200 (yellow) -- 5 | 6
+
+
+Note:  The Yaesu FT-7900 and FT-8800 manuals have the CT-39A
+wire colors are specified incorrectly in the wiring table (but
+the wiring diagrams are correct), and they do not match actual
+cable wiring nor the wiring label on the CT-39A package.
+

@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "*.mdx": "markdown"
+  },
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false,
+    "editor.tabSize": 4
+  }
+}
