@@ -26,6 +26,25 @@ Membership in SARES is at no cost for you, and all services provided by Radio Am
 -   How to [ join SARES](join-sares.md)
 -   [SARES brochure](SARES_Brochure.pdf) (PDF)
 
+## K6SNY Repeaters
+
+Located in Sunnyvale:
+
+| Frequency (Mhz) | PL Tone (Hz) | SARES Channels |
+| --------------- | ------------ | -------------- |
+| 145.170 -       | 94.8         | 1,2            |
+| 444.525 +       | 94.8         | 12,13          |
+
+On Crystal Peak:
+
+| Frequency (Mhz) | PL Tone (Hz) | SARES Channels |
+| --------------- | ------------ | -------------- |
+| 443.275 +       | 107.2        | 8, 9           |
+
+The SARES Repeater Group operates the repeaters for disaster response activations, mutual aid, and public service. [Details&nbsp;&raquo;](saresrg/index.md)
+
+These repeaters are also open for use by any licensed amateur radio operator.
+
 ## SARES Leadership
 
 ### Emergency Coordinator (EC)
