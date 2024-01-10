@@ -16,4 +16,4 @@ On desktop browsers, the left navigation menu may be hidden. Click on the hambur
 
 The round icon next to the search box toggles between automatic, light, and dark modes.
 
-If you do not see the search box in the header, check that you have not disabled Javascript is your browser.
+If you do not see the search box in the header, check that you have not disabled Javascript in your browser.

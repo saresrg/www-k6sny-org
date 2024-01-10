@@ -8,9 +8,9 @@ Some photographs appear through the courtesy of Peter Chow, W0NG and Thomas Leib
 
 ## Webmasters
 
-The sunnyvaleares.org website was previously maintained by Andreas Ott, K6OTT.
+The original Sunnyvale ARES website was maintained by Andreas Ott, K6OTT.
 
-The saresrg.org website was created by Rick Eversole, N6RNO, and later maintained by Peter Chow, W0NG and Jeffrey Shimbo, AK6TG.
+The SARES Repeater Group website was created by Rick Eversole, N6RNO, and later maintained by Peter Chow, W0NG and Jeffrey Shimbo, AK6TG.
 
 ## City of Sunnyvale
 
