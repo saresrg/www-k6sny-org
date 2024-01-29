@@ -37,6 +37,7 @@ nav:
 theme:
   name: material
   logo: assets/SARES-logo-tower.png
+  favicon: assets/images/favicon.ico
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -57,6 +58,12 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/saresrg
+      name: SARES on GitHub
 
 extra_css:
   - stylesheets/extra.css
