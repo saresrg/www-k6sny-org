@@ -1,6 +1,6 @@
-# Start Here
+# Resources
 
-## Intro
+## Introduction
 
 This section contains technical information for SARES members, formerly, saresrg.org/resources.
 

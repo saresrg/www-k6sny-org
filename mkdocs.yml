@@ -10,7 +10,7 @@ copyright: "&copy; 2007-2024 Sunnyvale Amateur Radio Emergency Service. All righ
 nav:
   - Home: index.md
   - Resources:
-      - resources/index.md
+      - Introduction: resources/index.md
       - resources/net-control.md
       - resources/go-kits.md
       - Mike-Mike: resources/mike-mike.md
