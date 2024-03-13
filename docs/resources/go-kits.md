@@ -6,9 +6,9 @@ This page contains SARES-specific information regarding Go Kits.
 
 ### Sunnyvale-Specific Documents
 
-Sunnyvale-specific forms and documents include frequency lists and the [SARES Emergency Plan](https://github.com/saresrg/Go-Kit-Forms/releases/download/v1.5/SARES_Emergency_Plan_Rev_Jan_2020.pdf).
+Sunnyvale-specific forms and documents include frequency lists and the [SARES Emergency Plan](https://github.com/saresrg/Go-Kit-Forms/releases/download/v1.6/SARES_Emergency_Plan-Mar_2024.pdf).
 
--   [Download SARES Go Kit files](https://github.com/saresrg/Go-Kit-Forms/releases/latest) (Updated: January 21, 2023)
+-   [Download SARES Go Kit files](https://github.com/saresrg/Go-Kit-Forms/releases/latest) (Updated: March 13, 2024)
 -   [Download SARES Frequency list](https://github.com/saresrg/Go-Kit-Forms/releases/latest) (CSV, Excel, and PDF)
 
 ### County Documents (including ICS forms)
