@@ -8,7 +8,7 @@ General information can be found on the [Nets page](../nets.md).
 
 Documents for net control operators are stored in the SARES [Net Control Docs repository](https://github.com/saresrg/Net-Control-Docs) on GitHub. Files include the net control script, check-in roster, and frequency rotation chart.
 
--   [Download Net Control files](https://github.com/saresrg/Net-Control-Docs/releases/latest) (Updated: March 12, 2024)
+-   [Download Net Control files](https://github.com/saresrg/Net-Control-Docs/releases/latest) (Updated: April 20, 2024)
 -   [Read the details](https://github.com/saresrg/Net-Control-Docs#readme)
 
 ## Other Net Control Scripts
