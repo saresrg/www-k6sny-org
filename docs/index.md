@@ -59,8 +59,9 @@ Loretta Keller, WB6BWQ
 Thomas Leibold, KK6FPP  
 Karlis Veilands, KN6GLT  
 Roger Pease, KE6PPI  
-Steve Bennett, KK6UCO  
-Skip LaFetra, AA6WK
+Jeffrey Shimbo, AK6TG  
+Skip LaFetra, AA6WK  
+Bertrand Achard, KN6YUY
 
 ### Emeriti
 
