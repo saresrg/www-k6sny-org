@@ -27,6 +27,10 @@ The Silicon Valley Emergency Communications System (SVECS) Net starts every Tues
 
 The SARES weekly check-in count from the preceding Monday night will be carried over and reported to the SVECS net. If you missed the weekly Monday net and want to check in on Tuesday, you need to do so as "late checkins for Sunnyvale" which will be called on the main SVECS net right after the Sunnyvale representative has reported in.
 
+## Net Control Scripts
+
+Please visit the [Net Control page](resources/net-control.md) for scripts and related documents.
+
 <script src="/js/simplex.js"></script>
 <script>
     const today = new Date();
