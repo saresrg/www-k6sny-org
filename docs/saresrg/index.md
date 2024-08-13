@@ -41,11 +41,11 @@ This is an open repeater and we welcome all licensed amateur radio operators.
 
 [FCC license info](http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=2972252)
 
-SARES-RG is a 501(C)(3) non-profit organization.
+## Donations
 
-Sunnyvale Amateur Radio Emergency Service - Repeater Group  
-1021 Yorktown Dr  
-Sunnyvale, CA 94087
+SARES-RG is a 501(c)(3) non-profit organization (EIN 26-1485698). We gratefully accept donations. All proceeds go towards operating and maintaining the repeater on Crystal Peak. Expenses include, tower rental, utilities, and insurance.
+
+You may contact us by email at (info at k6sny dot org).
 
 ## History of the Repeater
 
