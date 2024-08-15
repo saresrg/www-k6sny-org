@@ -32,12 +32,12 @@ This is an open repeater and we welcome all licensed amateur radio operators.
 
 ## SARES-RG Officers
 
-| Title          | Name           | Call Sign |
-| -------------- | -------------- | --------- |
-| President      | Wolfgang Polak | AI6SL     |
-| Vice-President | Roger Pease    | KE6PPI    |
-| Treasurer      | Steve Bennett  | KK6UCO    |
-| Secretary      | Skip la Fetra  | AA6WK     |
+| Title          | Name            | Call Sign |
+| -------------- | --------------- | --------- |
+| President      | Wolfgang Polak  | AI6SL     |
+| Vice-President | Karlis Veilands | KN6GLT    |
+| Treasurer      | Roger Pease     | KE6PPI    |
+| Secretary      | Skip la Fetra   | AA6WK     |
 
 [FCC license info](http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=2972252)
 
