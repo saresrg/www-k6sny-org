@@ -7,5 +7,6 @@
   "[markdown]": {
     "files.trimTrailingWhitespace": false,
     "editor.tabSize": 4
-  }
+  },
+  "makefile.configureOnOpen": false
 }
