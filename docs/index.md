@@ -39,7 +39,7 @@ On Crystal Peak:
 
 | Frequency (Mhz) | PL Tone (Hz) | SARES Channels |
 | --------------- | ------------ | -------------- |
-| 443.275 +       | 107.2        | 8, 9           |
+| 443.275 +       | 107.2        | 8, 9, (39)     |
 
 The SARES Repeater Group operates the repeaters for disaster response activations, mutual aid, and public service. [Details&nbsp;&raquo;](saresrg/index.md)
 
