@@ -16,11 +16,14 @@ Coordinator (EC) and Assistant Emergency Coordinators (AEC).
 -   Wide area coverage, located on Crystal Peak, Santa Clara County
 -   Emergency generator
 
-### Linking from AA6BT 2m repeater
+### Santa Clara County ARES/RACES
 
-The control operators of the [AA6BT repeater](http://www.svecs.net/) have the
-capablility of linking that repeater to K6SNY, for purposes of mutual aid during
+The control operators of the [AA6BT 2m repeater](http://www.svecs.net/) have the
+capability of linking that repeater to K6SNY, for purposes of mutual aid during
 times of disasters and other emergencies.
+
+In September 2024, K6SNY was designated as the _primary_ repeater to cover
+the County Resource Net - South.
 
 ### Open Repeater
 
@@ -28,14 +31,14 @@ This is an open repeater and we welcome all licensed amateur radio operators.
 
 | Frequency (Mhz) | PL Tone (Hz) | SARES Channels |
 | --------------- | ------------ | -------------- |
-| 443.275 +       | 107.2        | 8, 9           |
+| 443.275 +       | 107.2        | 8, 9, (39)     |
 
 ## SARES-RG Officers
 
 | Title          | Name            | Call Sign |
 | -------------- | --------------- | --------- |
 | President      | Wolfgang Polak  | AI6SL     |
-| Vice-President | Karlis Veilands | KN6GLT    |
+| Vice President | Karlis Veilands | KN6GLT    |
 | Treasurer      | Roger Pease     | KE6PPI    |
 | Secretary      | Skip la Fetra   | AA6WK     |
 
