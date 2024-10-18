@@ -17,7 +17,6 @@ Please download the remaining documents, including blank ICS forms, from the San
 
 -   [County ARES/RACES Go Kit Forms](https://www.scc-ares-races.org/operations/go-kit-forms.html)
     -   That web page also specifies the number of copies you should carry
-    -   You can download all forms in one zip file by clicking on the link, "All Go Kit Forms (ZIP, 4.3 MB)"
     -   Please use the County version of the ICS-213 Message form instead of the obsolete "Sunnyvale version."
 -   Additional documents, including the county-wide frequency list, are available on the [County website](https://www.scc-ares-races.org/operations.html)
 
