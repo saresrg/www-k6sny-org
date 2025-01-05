@@ -5,7 +5,7 @@ site_description: >-
   Sunnyvale Amateur Radio Emergency Service. Sunnyvale, California, USA.
 
 # Copyright
-copyright: "&copy; 2007-2024 Sunnyvale Amateur Radio Emergency Service. All rights reserved."
+copyright: "&copy; 2007-2025 Sunnyvale Amateur Radio Emergency Service. All rights reserved."
 
 nav:
   - Home: index.md
