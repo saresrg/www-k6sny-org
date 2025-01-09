@@ -70,3 +70,7 @@ Most links here go to external sites.
 
 -   [Home Page](http://www.arrl.org/)
 -   [Santa Clara Valley section](http://www.arrl.org/groups/view/santa-clara-valley)
+
+## General
+
+-   [SF Bay Ham Radio Resources](https://www.qsl.net/k9stv/)
