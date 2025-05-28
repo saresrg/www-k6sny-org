@@ -13,7 +13,7 @@ SARES is an independent citywide ARES group of the ARRL (American Radio Relay Le
 
 ### What is in it for you?
 
-Free [training opportunities](https://www.scc-ares-races.org/activities/events.php) as net control station, traffic handler, VIP shadow, etc.; quarterly meetings with featured speakers; quarterly exercise drills in the field and tabletop simulated emergency tests to practice your skills; you can meet fellow hams and, last but not least, you give back to your community and earn recognition by your community by helping in times of need.
+Free [training opportunities](https://www.scc-ares-races.org/training) as net control station, traffic handler, VIP shadow, etc.; quarterly meetings with featured speakers; quarterly exercise drills in the field and tabletop simulated emergency tests to practice your skills; you can meet fellow hams and, last but not least, you give back to your community and earn recognition by your community by helping in times of need.
 
 ### Other activities and social events
 

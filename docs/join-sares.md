@@ -6,7 +6,7 @@
 
 To join SARES, you must be a licensed amateur radio operator.
 
-[Getting licensed](https://www.arrl.org/getting-licensed) involves passing an examination covering technical and regulatory topics. Several local organizations offer [in-person exam preparation and testing](https://www.scc-ares-races.org/training/licensing.html). For self-study, the ARRL and other organizations publish study materials, for example, [The ARRL Ham Radio License Manual](https://www.arrl.org/studying-for-a-technician-license).
+[Getting licensed](https://www.arrl.org/getting-licensed) involves passing an examination covering technical and regulatory topics. Several local organizations offer [in-person exam preparation and testing](https://www.scc-ares-races.org/about/get-started/license). For self-study, the ARRL and other organizations publish study materials, for example, [The ARRL Ham Radio License Manual](https://www.arrl.org/studying-for-a-technician-license).
 
 If you prefer to do this online, [hamstudy.org](https://hamstudy.org/) is a good starting point. Numerous websites host online practice examms, for example, [aa9pw.com](https://www.aa9pw.com/) and [eham.net](https://www.eham.net/exams/). Finally, you can download the [exam question pools](http://www.arrl.org/question-pools) from the ARRL.
 

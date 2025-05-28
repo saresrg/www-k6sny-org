@@ -5,7 +5,7 @@ Most links here go to external sites.
 ## Radios
 
 -   Anderson Powerpole® assembly for ARES/RACES configuration:
-    -   [SCC ARES/RACES](http://www.scc-ares-races.org/hardware/andersonpp.html)
+    -   [SCC ARES/RACES](http://www.scc-ares-races.org/operations/equipment/power/distribution)
     -   [W2VTM](http://www.qsl.net/w2vtm/powerpole.html)
     -   When assembling the Anderson power pole: _"Tongue Top Red Right."_
 -   [ARRL Propagation of RF Signals page](https://www.arrl.org/propagation-of-rf-signals)
@@ -36,7 +36,7 @@ Most links here go to external sites.
     -   [Emergency Preparedness](https://www.sunnyvale.ca.gov/your-government/departments/public-safety/emergency-preparedness)
 -   [Santa Clara County Sheriff, Office of Emergency Management](https://www.sccgov.org/portal/site/oes/)
 -   [California Governor's Office of Emergency Services](https://www.caloes.ca.gov/)
--   [State Disaster Service Worker](https://www.scc-ares-races.org/dsw/index.html) program description and coverage
+-   [State Disaster Service Worker](https://www.scc-ares-races.org/about/dsw) program description and coverage
 -   [National Weather Service San Francisco Bay Area and Monterey](http://www.wrh.noaa.gov/mtr/)
 -   [The Hurricane Watch Net](http://www.hwn.org/) on 14.325MHz and Amateur Radio station WX4NHC at the [National Hurricane Center](http://www.wx4nhc.org/) (at the Florida International University).
 -   [NOAA U.S. Tsunami Warning System](https://ntwc.ncep.noaa.gov/)
@@ -55,7 +55,7 @@ Most links here go to external sites.
 
 -   [Cupertino](http://www.cupertinoares.org/)
 -   [Los Altos](https://laares.org/)
--   [Los Altos Hills (W6LAH)](http://www.scc-ares-races.org/lah/lah.html)
+-   [Los Altos Hills (W6LAH)](http://www.scc-ares-races.org/operations/contact/lah)
 -   [Milpitas (W6MLP)](http://www.qsl.net/mares/)
 -   [Mountain View (K6MTV)](http://www.k6mtv.org/)
 -   [NASA/AMES (NA6MF)](http://hamradio.arc.nasa.gov/)

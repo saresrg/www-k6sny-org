@@ -1,6 +1,6 @@
 # Mike-Mike Reporting
 
-SARES uses the Mike-Mike ([Modified Mercalli Intensity Scale](https://www.scc-ares-races.org/MMScale.html)) reporting methodology.
+SARES uses the Mike-Mike ([Modified Mercalli Intensity Scale](https://www.scc-ares-races.org/operations/forms/go-kit-doc/mercalli)) reporting methodology.
 
 If you feel a significant earthquake, please go to SARES channel 1 (or alternate).
 

@@ -12,18 +12,18 @@ The FEMA Emergency Management Institute (EMI) offers all of the courses online. 
 
 ## State of California OES SEMS Course
 
-The California Governor's Office of Emergency Services (OES) provides the [Standardized Emergency Management System](https://www.caloes.ca.gov/office-of-the-director/operations/planning-preparedness-prevention/california-specialized-training-institute/hazardous-materials-program/standardized-emergency-management-system-sems/) (SEMS) Introduction Online Course, SEMS G606.
+The California Governor's Office of Emergency Services (OES) provides the [Standardized Emergency Management System](https://www.caloes.ca.gov/office-of-the-director/operations/planning-preparedness-prevention/planning-preparedness/standardized-emergency-management-system/) (SEMS) Introduction Online Course, SEMS G606.
 
-There is no direct URL to this course. Please follow these steps instead.
+If you have difficulty accessing this course, please follow these steps.
 
 1. Go to the [CSTI Training Portal](https://csti-ca.csod.com/)
 1. Click on "Browse Training" (binoculars icon)
-1. In the left column, under Type, click on the the square blue icon to select online courses
-1. Look for _Standardized Emergency Management System Introduction (SEMS G606) Online Course_
+1. On the left, under Type, click on the the square blue icon to select online courses
+1. Scroll down to _Standardized Emergency Management System Introduction (SEMS G606) Online Course_
 
-## Other Courses
+## Emergency Management Classes
 
-Learn about other Emergency Management Training Courses at [the county website](https://www.scc-ares-races.org/training/em-courses.html)
+Please visit the county website for other [Emergency Management Classes](https://www.scc-ares-races.org/training/em-mgmt).
 
 ## Save Your Certificates
 
