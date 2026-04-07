@@ -8,10 +8,10 @@ General information can be found on the [Santa Clara County ARES/RACES ("County"
 
 ### Sunnyvale-Specific Documents
 
-Get Sunnyvale-specific forms and documents, including frequency lists and [SARES Emergency Plan](https://github.com/saresrg/Go-Kit-Forms/releases/download/v1.6/SARES_Emergency_Plan-Mar_2024.pdf), from these links.
+Get Sunnyvale-specific forms and documents, including frequency lists and the _SARES Emergency Plan,_ from these links.
 
--   [Download SARES Go Kit files](https://github.com/saresrg/Go-Kit-Forms/releases/latest) (Updated: September 14, 2024)
--   [Download SARES Frequency list](https://github.com/saresrg/Go-Kit-Forms/releases/latest) (CSV, Excel, and PDF)
+- [Download SARES Go Kit files](https://github.com/saresrg/Go-Kit-Forms/releases/latest)
+- [Download SARES Frequency list](https://github.com/saresrg/Go-Kit-Forms/releases/latest) (CSV, Excel, and PDF)
 
 ### County Documents
 
